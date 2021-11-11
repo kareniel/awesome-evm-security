@@ -15,10 +15,9 @@ A curated list of resources about DeFi and blockchain security.
 - [Services](#services)
 
 # Guides
-- [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
+- [Security Considerations in the Solidity documentation](https://docs.soliditylang.org/en/v0.8.6/security-considerations.html)
 - [State of DeFi Audits](https://medium.com/conflux-network/the-overlooked-element-of-defi-adoption-e3b29829e3da)
-- [Bitcoin & Ethereum (Security) focused bookshelf](https://www.zeneca.io/rmi7)
-- [Security Considerations in Solidity documentation](https://docs.soliditylang.org/en/v0.8.6/security-considerations.html)
+- [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
 
 # Systems
 - [L2Beat](https://l2beat.com/) - Transparent and verifiable insights into emerging layer two (L2) technologies
@@ -26,13 +25,13 @@ A curated list of resources about DeFi and blockchain security.
 - [web3 startups, tokens, and coins](https://twitter.com/chriscantino/status/1455190423220015104?s=21) - "If you could invest $10M in any web3 startup, NFT project, or cryptocurrency, what would you choose?"
 
 # Threats
-- [Mudit Gupta's Twitter threads](https://mudit.blog/twitter-threads/) - Early analysis and educational content on Twitter
 - [MEV-explore](https://explore.flashbots.net/) - Help the community understand and quantify the significance of "Dark Forest activities" and their impact on the Ethereum network
+- [Mudit Gupta's Twitter threads](https://mudit.blog/twitter-threads/) - Early analysis and educational content on Twitter
+- [Flash Boys 2.0 Paper](https://ieeexplore.ieee.org/document/9152675) - Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability
+- [DeFiYield's REKT db](https://defiyield.app/rekt-database) - Database of Crypto Hacks, Exploit, Scam
 
 # Vulnerabilities
 - [246 Findings](https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/) - 246 Findings From Trail of Bits Smart Contract Audits
-- [Flash Boys 2.0 Paper: Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability](https://ieeexplore.ieee.org/document/9152675)
-- [Rekt, Database of Crypto Hacks, Exploit, Scam](https://defiyield.app/rekt-database)
 
 # Standards
 - [DeFi Safety](https://www.defisafety.com/) - Best practices security score reviews
