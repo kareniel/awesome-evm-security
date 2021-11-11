@@ -21,28 +21,28 @@ A curated list of resources about DeFi and blockchain security.
 - [Security Considerations in Solidity documentation](https://docs.soliditylang.org/en/v0.8.6/security-considerations.html)
 
 # Systems
-- [Transparent and verifiable insights into emerging layer two (L2) technologies](https://l2beat.com/)
-- [Ethereum 2.0 Specifications Security Audit Report](https://leastauthority.com/static/publications/LeastAuthority-Ethereum-2.0-Specifications-Audit-Report.pdf)
-- ["If you could invest $10M in any web3 startup, NFT project, or cryptocurrency, what would you choose?"](https://twitter.com/chriscantino/status/1455190423220015104?s=21)
+- [L2Beat](https://l2beat.com/) - Transparent and verifiable insights into emerging layer two (L2) technologies
+- [Ethereum 2.0 Specifications Security Audit Report](https://leastauthority.com/static/publications/LeastAuthority-Ethereum-2.0-Specifications-Audit-Report.pdf) - Security Audit Report of the Eth2.0 spec by Least Authority
+- [web3 startups, tokens, and coins](https://twitter.com/chriscantino/status/1455190423220015104?s=21) - "If you could invest $10M in any web3 startup, NFT project, or cryptocurrency, what would you choose?"
 
 # Threats
-- [Early analysis and educational content on Twitter](https://mudit.blog/twitter-threads/)
+- [Mudit Gupta's Twitter threads](https://mudit.blog/twitter-threads/) - Early analysis and educational content on Twitter
 - [MEV-explore](https://explore.flashbots.net/) - Help the community understand and quantify the significance of "Dark Forest activities" and their impact on the Ethereum network
 
 # Vulnerabilities
-- [246 Findings From our Smart Contract Audits: An Executive Summary](https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/)
+- [246 Findings](https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/) - 246 Findings From Trail of Bits Smart Contract Audits
 - [Flash Boys 2.0 Paper: Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability](https://ieeexplore.ieee.org/document/9152675)
 - [Rekt, Database of Crypto Hacks, Exploit, Scam](https://defiyield.app/rekt-database)
 
 # Standards
 - [DeFi Safety](https://www.defisafety.com/) - Best practices security score reviews
-- [DASP (Decentralized Application Security Project) Top 10 of 2018](https://dasp.co/)
-- [Immunefi Vulnerability Severity Classification System](https://immunefi.com/severity-updated/)
+- [DASP Top 10 of 2018](https://dasp.co/) - Decentralized Application Security Project Top 10 vulnerabilities
+- [IVSCS](https://immunefi.com/severity-updated/) - Immunefi Vulnerability Severity Classification System
 - [Smart Contract Security Verification Standard](https://securing.github.io/SCSVS/)
 - [Secureth guidelines](https://guidelines.secureth.org/) - Aid you in formulating your own software engineering process by giving a complete picture of all the different concerns and expectations in your software projects
 
 # Reports
-- [TOP 100 exchanges by Cybersecurity rating](https://cer.live/)
+- [CERtified](https://cer.live/) - Top 100 exchanges by Cybersecurity rating
 
 # Tooling
 - [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals
