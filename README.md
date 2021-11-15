@@ -20,6 +20,7 @@ A curated list of resources about DeFi and blockchain security.
 - [IVSCS](https://immunefi.com/severity-updated/) - Immunefi Vulnerability Severity Classification System
 - [Smart Contract Security Verification Standard](https://securing.github.io/SCSVS/)
 - [Secureth guidelines](https://guidelines.secureth.org/) - Aid you in formulating your own software engineering process by giving a complete picture of all the different concerns and expectations in your software projects
+- [CryptoCurrency Security Standard (CCSS)](https://cryptoconsortium.github.io/CCSS/) - A set of requirements for all information systems that make use of cryptocurrencies, including exchanges, web applications, and cryptocurrency storage solutions
 
 # Guides
 - [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
