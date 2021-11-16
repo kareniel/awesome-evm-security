@@ -6,11 +6,11 @@ A curated list of resources about DeFi and blockchain security.
 
 # Table of content
 
+- [Standards](#standards)
 - [Guides](#guides)
+- [Assets](#assets)
 - [Threats](#threats)
 - [Vulnerabilities](#vulnerabilities)
-- [Standards](#standards)
-- [Reports](#reports)
 - [Tooling](#tooling)
 - [Services](#services)
 
@@ -25,9 +25,10 @@ A curated list of resources about DeFi and blockchain security.
 # Guides
 - [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
 
-# Systems
+# Assets
 - [Security Considerations in the Solidity documentation](https://docs.soliditylang.org/en/v0.8.6/security-considerations.html)
 - [Ethereum 2.0 Specifications Security Audit Report](https://leastauthority.com/static/publications/LeastAuthority-Ethereum-2.0-Specifications-Audit-Report.pdf) - Security Audit Report of the Eth2.0 spec by Least Authority
+- [Smart Contract Security Registry](https://github.com/ethereum-lists/contracts) - An effort to identify deployed contracts instances given their chain and address, by listing the project they belong to.
 - [L2Beat](https://l2beat.com/) - Transparent and verifiable insights into emerging layer two (L2) technologies
 - [CERtified](https://cer.live/) - Top 100 exchanges by Cybersecurity rating
 - [web3 startups, tokens, and coins](https://twitter.com/chriscantino/status/1455190423220015104?s=21) - "If you could invest $10M in any web3 startup, NFT project, or cryptocurrency, what would you choose?"
