@@ -24,6 +24,7 @@ A curated list of resources about web3 security.
 
 # Guides
 - [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
+- [CryptoSec.info](https://cryptosec.info/) - A web resource focused on providing nontechnical information to help beginners learn how to protect their funds against hackers and scammers
 
 # Assets
 - [Security Considerations in the Solidity documentation](https://docs.soliditylang.org/en/v0.8.6/security-considerations.html)
@@ -34,7 +35,9 @@ A curated list of resources about web3 security.
 - [web3 startups, tokens, and coins](https://twitter.com/chriscantino/status/1455190423220015104?s=21) - "If you could invest $10M in any web3 startup, NFT project, or cryptocurrency, what would you choose?"
 
 # Threats
+- [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - A list of all massive security breaches or thefts involving blockchains.
 - [DeFiYield's REKT db](https://defiyield.app/rekt-database) - Database of Crypto Hacks, Exploit, Scam
+- [Blockchain Threat Intelligence](https://www.blockthreat.io/) - The latest in blockchain, DeFi and cryptocurrency threat intelligence, vulnerabilities, security tools, and events.
 - [Mudit Gupta's Twitter threads](https://mudit.blog/twitter-threads/) - Early analysis and educational content on Twitter
 - [Flash Boys 2.0 Paper](https://ieeexplore.ieee.org/document/9152675) - Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability
 - [MEV-explore](https://explore.flashbots.net/) - Help the community understand and quantify the significance of "Dark Forest activities" and their impact on the Ethereum network
@@ -51,6 +54,10 @@ A curated list of resources about web3 security.
 - [State of DeFi Audits](https://medium.com/conflux-network/the-overlooked-element-of-defi-adoption-e3b29829e3da)
 - [List of DeFi auditors](https://www.defisafety.com/auditors)
 - [Secureum](https://www.secureum.xyz/) - Smart contract security auditing bootcamp
+
+# Misc
+
+- [People to follow on Twitter](https://twitter.com/i/lists/1453086258436128770) - Twitter list to an overview of the web3 ecosystem and security people
 
 ---
 
