@@ -25,6 +25,7 @@ A curated list of resources about web3 security.
 # Guides
 - [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
 - [CryptoSec.info](https://cryptosec.info/) - A web resource focused on providing nontechnical information to help beginners learn how to protect their funds against hackers and scammers
+- [Genesis 0x00: A Series on Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/13/genesis.html) - A series of weekly articles on Blockchain Security
 
 # Assets
 - [Security Considerations in the Solidity documentation](https://docs.soliditylang.org/en/v0.8.6/security-considerations.html)
