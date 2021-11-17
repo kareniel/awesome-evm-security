@@ -11,8 +11,10 @@ A curated list of resources about web3 security.
 - [Assets](#assets)
 - [Threats](#threats)
 - [Vulnerabilities](#vulnerabilities)
+- [Controls](#controls)
 - [Tooling](#tooling)
 - [Services](#services)
+- [Misc](#misc)
 
 # Standards
 - [DeFi Safety](https://www.defisafety.com/) - Best practices security score reviews
@@ -48,6 +50,9 @@ A curated list of resources about web3 security.
 # Vulnerabilities
 - [SWC Registry](https://swcregistry.io/) - Smart Contract Weakness Classification and Test Cases
 - [246 Findings](https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/) - 246 Findings From Trail of Bits Smart Contract Audits
+
+# Controls
+- [Security Pattern for Ethereum and Solidity](https://docs.google.com/spreadsheets/d/1PF4QZudW6Z7EV4hqQfwPo3A43AVqPrsuzzzey5yRYcs/edit#gid=0) - Google Sheets Checklists
 
 # Tooling
 - [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals
