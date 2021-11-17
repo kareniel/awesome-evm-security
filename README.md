@@ -46,6 +46,7 @@ A curated list of resources about web3 security.
 - [MEV-explore](https://explore.flashbots.net/) - Help the community understand and quantify the significance of "Dark Forest activities" and their impact on the Ethereum network
 
 # Vulnerabilities
+- [SWC Registry](https://swcregistry.io/) - Smart Contract Weakness Classification and Test Cases
 - [246 Findings](https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/) - 246 Findings From Trail of Bits Smart Contract Audits
 
 # Tooling
