@@ -36,8 +36,10 @@ A curated list of resources about web3 security.
 
 # Threats
 - [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - A list of all massive security breaches or thefts involving blockchains.
-- [DeFiYield's REKT db](https://defiyield.app/rekt-database) - Database of Crypto Hacks, Exploit, Scam
+- [List of Bitcoin Heists](https://bitcointalk.org/index.php?topic=576337) - Research on prior Bitcoin-related thefts
 - [Blockchain Threat Intelligence](https://www.blockthreat.io/) - The latest in blockchain, DeFi and cryptocurrency threat intelligence, vulnerabilities, security tools, and events.
+- [Rekt News](https://rekt.news/) - Investigative journalism, creative commentary, and incident analysis
+- [DeFiYield's REKT db](https://defiyield.app/rekt-database) - Database of Crypto Hacks, Exploit, Scam
 - [Mudit Gupta's Twitter threads](https://mudit.blog/twitter-threads/) - Early analysis and educational content on Twitter
 - [Flash Boys 2.0 Paper](https://ieeexplore.ieee.org/document/9152675) - Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability
 - [MEV-explore](https://explore.flashbots.net/) - Help the community understand and quantify the significance of "Dark Forest activities" and their impact on the Ethereum network
