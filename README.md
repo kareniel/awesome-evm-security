@@ -36,6 +36,7 @@ A curated list of resources about web3 security.
 - [L2Beat](https://l2beat.com/) - Transparent and verifiable insights into emerging layer two (L2) technologies
 - [CERtified](https://cer.live/) - Top 100 exchanges by Cybersecurity rating
 - [web3 startups, tokens, and coins](https://twitter.com/chriscantino/status/1455190423220015104?s=21) - "If you could invest $10M in any web3 startup, NFT project, or cryptocurrency, what would you choose?"
+- [The Non-Fungible Token Bible](https://opensea.io/blog/guides/non-fungible-tokens) - Everything you need to know about NFTs
 
 # Threats
 - [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - A list of all massive security breaches or thefts involving blockchains.
