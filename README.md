@@ -70,7 +70,7 @@ A curated list of resources about web3 security.
 # Misc
 
 - [People to follow on Twitter](https://twitter.com/i/lists/1453086258436128770) - Twitter list to an overview of the web3 ecosystem and security people
-- [Crypto CSO’s Cyber Security Framework and Toolkit](https://www.youtube.com/watch?v=WdYhnwJrc6w) - Presentation by Celcius' CSO Shiran Kleiderman (YouTube video)
+- [Videos to watch on Youtube](https://www.youtube.com/playlist?list=PLox242_JhiuEe64LzW1M8XpiQ2-N5bZsX) - Youtube playlist of web3 security videos
 
 ---
 
