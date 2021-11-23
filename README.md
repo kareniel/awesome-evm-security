@@ -61,9 +61,11 @@ A curated list of resources about web3 security.
 - [Smart Contract Security Registry](https://github.com/ethereum-lists/contracts) - An effort to identify deployed contracts instances given their chain and address, by listing the project they belong to.
 
 # Tooling
+- [Dapp tools](https://dapp.tools/) - Unixy command line tools and smart contract libraries for Ethereum smart contract development
 - [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals
 - [TypeChain](https://github.com/dethcrypto/TypeChain) - TypeScript bindings for Ethereum smart contracts
 - [Firefly](https://fireflyblockchain.com/) - QA for smart contracts.
+- [Forta](https://docs.forta.network/) - Community-based runtime security network for smart contracts
 
 # Services
 - [State of DeFi Audits](https://medium.com/conflux-network/the-overlooked-element-of-defi-adoption-e3b29829e3da)
