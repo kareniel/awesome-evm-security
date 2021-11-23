@@ -58,6 +58,7 @@ A curated list of resources about web3 security.
 
 # Controls
 - [Security Pattern for Ethereum and Solidity](https://docs.google.com/spreadsheets/d/1PF4QZudW6Z7EV4hqQfwPo3A43AVqPrsuzzzey5yRYcs/edit#gid=0) - Google Sheets Checklists
+- [Solidity Patterns](https://fravoll.github.io/solidity-patterns/) - A compilation of patterns and best practices for the smart contract programming language Solidity
 
 # Tooling
 - [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals
