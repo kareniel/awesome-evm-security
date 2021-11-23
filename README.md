@@ -49,6 +49,7 @@ A curated list of resources about web3 security.
 - [Mudit Gupta's Twitter threads](https://mudit.blog/twitter-threads/) - Early analysis and educational content on Twitter
 - [Flash Boys 2.0 Paper](https://ieeexplore.ieee.org/document/9152675) - Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability
 - [MEV-explore](https://explore.flashbots.net/) - Help the community understand and quantify the significance of "Dark Forest activities" and their impact on the Ethereum network
+- [Flashloan monitor](https://monitor.blocksecteam.com/) - Dashboard that helps you monitor flashloan transactions 
 
 # Vulnerabilities
 - [SWC Registry](https://swcregistry.io/) - Smart Contract Weakness Classification and Test Cases
