@@ -76,8 +76,7 @@ A curated list of resources about web3 security.
 
 - [People to follow on Twitter](https://twitter.com/i/lists/1453086258436128770) - Twitter list to an overview of the web3 ecosystem and security people
 - [Videos to watch on Youtube](https://www.youtube.com/playlist?list=PLox242_JhiuEe64LzW1M8XpiQ2-N5bZsX) - Youtube playlist of web3 security videos
-- [web3 startups, tokens, and coins](https://twitter.com/chriscantino/status/1455190423220015104?s=21) - Twitter thread. "If you could invest $10M in any web3 startup, NFT project, or cryptocurrency, what would you choose?"
-- [Genesis 0x00: A Series on Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/13/genesis.html) - A series of weekly articles on Blockchain Security
+- [Genesis 0x00: A Series on Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/13/genesis.html) - Weekly articles on Blockchain Security, covering secure development, common vulnerabilities in smart contracts, auditing Solidity, and static analysis
 
 ---
 
