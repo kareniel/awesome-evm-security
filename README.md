@@ -25,17 +25,15 @@ A curated list of resources about web3 security.
 - [CryptoCurrency Security Standard (CCSS)](https://cryptoconsortium.github.io/CCSS/) - A set of requirements for all information systems that make use of cryptocurrencies, including exchanges, web applications, and cryptocurrency storage solutions
 
 # Guides
-- [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
-- [CryptoSec.info](https://cryptosec.info/) - A web resource focused on providing nontechnical information to help beginners learn how to protect their funds against hackers and scammers
-- [Genesis 0x00: A Series on Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/13/genesis.html) - A series of weekly articles on Blockchain Security
+- [CryptoSec.info](https://cryptosec.info/) - Information to help beginners learn how to protect their funds against hackers and scammers
+- [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/) - Frequently asked questions that are related to auditing and auditors can get their first job
 
 # Assets
 - [Security Considerations in the Solidity documentation](https://docs.soliditylang.org/en/v0.8.6/security-considerations.html)
 - [Ethereum 2.0 Specifications Security Audit Report](https://leastauthority.com/static/publications/LeastAuthority-Ethereum-2.0-Specifications-Audit-Report.pdf) - Security Audit Report of the Eth2.0 spec by Least Authority
-- [Smart Contract Security Registry](https://github.com/ethereum-lists/contracts) - An effort to identify deployed contracts instances given their chain and address, by listing the project they belong to.
+- [Getting Deep Into EVM](https://hackernoon.com/getting-deep-into-evm-how-ethereum-works-backstage-ac7efa1f0015) - An Ultimate, In-depth Explanation of How EVM Works
+- [Scaling EVM (Ethereum Virtual Machine)](https://capitalgram.com/posts/scaling-evm/) - How fast and far can the EVM based blockchain architecture still take us
 - [L2Beat](https://l2beat.com/) - Transparent and verifiable insights into emerging layer two (L2) technologies
-- [CERtified](https://cer.live/) - Top 100 exchanges by Cybersecurity rating
-- [web3 startups, tokens, and coins](https://twitter.com/chriscantino/status/1455190423220015104?s=21) - "If you could invest $10M in any web3 startup, NFT project, or cryptocurrency, what would you choose?"
 - [The Non-Fungible Token Bible](https://opensea.io/blog/guides/non-fungible-tokens) - Everything you need to know about NFTs
 - [Ethereum Blockspace: Who Gets What and Why](https://www.aniccaresearch.tech/blog/ethereum-blockspace-who-gets-what-and-why) - Ethereum blockspace market structure 
 
@@ -57,8 +55,10 @@ A curated list of resources about web3 security.
 - [A Survey of Security Vulnerabilities in Ethereum Smart Contracts](https://arxiv.org/pdf/2105.06974.pdf) Explains eight vulnerabilities that are specific to the application level of blockchain technology by analyzing the past exploitation case scenarios of these security vulnerabilities
 
 # Controls
-- [Security Pattern for Ethereum and Solidity](https://docs.google.com/spreadsheets/d/1PF4QZudW6Z7EV4hqQfwPo3A43AVqPrsuzzzey5yRYcs/edit#gid=0) - Google Sheets Checklists
 - [Solidity Patterns](https://fravoll.github.io/solidity-patterns/) - A compilation of patterns and best practices for the smart contract programming language Solidity
+- [Security Pattern for Ethereum and Solidity](https://docs.google.com/spreadsheets/d/1PF4QZudW6Z7EV4hqQfwPo3A43AVqPrsuzzzey5yRYcs/edit#gid=0) - Google Sheets Checklists
+- [CERtified](https://cer.live/) - Top 100 exchanges by Cybersecurity rating
+- [Smart Contract Security Registry](https://github.com/ethereum-lists/contracts) - An effort to identify deployed contracts instances given their chain and address, by listing the project they belong to.
 
 # Tooling
 - [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals
@@ -74,6 +74,8 @@ A curated list of resources about web3 security.
 
 - [People to follow on Twitter](https://twitter.com/i/lists/1453086258436128770) - Twitter list to an overview of the web3 ecosystem and security people
 - [Videos to watch on Youtube](https://www.youtube.com/playlist?list=PLox242_JhiuEe64LzW1M8XpiQ2-N5bZsX) - Youtube playlist of web3 security videos
+- [web3 startups, tokens, and coins](https://twitter.com/chriscantino/status/1455190423220015104?s=21) - Twitter thread. "If you could invest $10M in any web3 startup, NFT project, or cryptocurrency, what would you choose?"
+- [Genesis 0x00: A Series on Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/13/genesis.html) - A series of weekly articles on Blockchain Security
 
 ---
 
