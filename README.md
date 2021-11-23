@@ -32,6 +32,7 @@ A curated list of resources about web3 security.
 - [Security Considerations in the Solidity documentation](https://docs.soliditylang.org/en/v0.8.6/security-considerations.html)
 - [Ethereum 2.0 Specifications Security Audit Report](https://leastauthority.com/static/publications/LeastAuthority-Ethereum-2.0-Specifications-Audit-Report.pdf) - Security Audit Report of the Eth2.0 spec by Least Authority
 - [Getting Deep Into EVM](https://hackernoon.com/getting-deep-into-evm-how-ethereum-works-backstage-ac7efa1f0015) - An Ultimate, In-depth Explanation of How EVM Works
+- [Ethereum EVM illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf) - Exploring some mental models and implementations
 - [Scaling EVM (Ethereum Virtual Machine)](https://capitalgram.com/posts/scaling-evm/) - How fast and far can the EVM based blockchain architecture still take us
 - [L2Beat](https://l2beat.com/) - Transparent and verifiable insights into emerging layer two (L2) technologies
 - [The Non-Fungible Token Bible](https://opensea.io/blog/guides/non-fungible-tokens) - Everything you need to know about NFTs
