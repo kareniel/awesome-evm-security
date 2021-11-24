@@ -40,10 +40,11 @@ Mostly focused on Ethereum for now, but more coming soon!
 - [Ethereum 2.0 Specifications Security Audit Report](https://leastauthority.com/static/publications/LeastAuthority-Ethereum-2.0-Specifications-Audit-Report.pdf) - Security Audit Report of the Eth2.0 spec by Least Authority
 - [Getting Deep Into EVM](https://hackernoon.com/getting-deep-into-evm-how-ethereum-works-backstage-ac7efa1f0015) - An Ultimate, In-depth Explanation of How EVM Works
 - [Ethereum EVM illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf) - Exploring some mental models and implementations
+- [Ethereum Blockspace: Who Gets What and Why](https://www.aniccaresearch.tech/blog/ethereum-blockspace-who-gets-what-and-why) - Ethereum blockspace market structure
+- [What Is Uniswap and How Does It Work?](https://academy.binance.com/en/articles/what-is-uniswap-and-how-does-it-work) - What Uniswap is, how it works, and how you can swap tokens on it simply with an Ethereum wallet
 - [Scaling EVM (Ethereum Virtual Machine)](https://capitalgram.com/posts/scaling-evm/) - How fast and far can the EVM based blockchain architecture still take us
 - [L2Beat](https://l2beat.com/) - Transparent and verifiable insights into emerging layer two (L2) technologies
-- [The Non-Fungible Token Bible](https://opensea.io/blog/guides/non-fungible-tokens) - Everything you need to know about NFTs
-- [Ethereum Blockspace: Who Gets What and Why](https://www.aniccaresearch.tech/blog/ethereum-blockspace-who-gets-what-and-why) - Ethereum blockspace market structure 
+- [The Non-Fungible Token Bible](https://opensea.io/blog/guides/non-fungible-tokens) - Everything you need to know about NFTs 
 
 # Threats
 - [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - A list of all massive security breaches or thefts involving blockchains.
