@@ -12,6 +12,7 @@ A curated list of resources about web3 security.
 - [Threats](#threats)
 - [Vulnerabilities](#vulnerabilities)
 - [Controls](#controls)
+- [Governance](#governance)
 - [Tooling](#tooling)
 - [Services](#services)
 - [Misc](#misc)
@@ -60,6 +61,9 @@ A curated list of resources about web3 security.
 - [Security Pattern for Ethereum and Solidity](https://docs.google.com/spreadsheets/d/1PF4QZudW6Z7EV4hqQfwPo3A43AVqPrsuzzzey5yRYcs/edit#gid=0) - Google Sheets Checklists
 - [CERtified](https://cer.live/) - Top 100 exchanges by Cybersecurity rating
 - [Smart Contract Security Registry](https://github.com/ethereum-lists/contracts) - An effort to identify deployed contracts instances given their chain and address, by listing the project they belong to.
+
+# Governance
+- [SAFT Agreements](https://saftproject.com/) - A commercial instrument used to convey rights in tokens prior to the development of the tokens’ functionality
 
 # Tooling
 - [Dapp tools](https://dapp.tools/) - Unixy command line tools and smart contract libraries for Ethereum smart contract development
