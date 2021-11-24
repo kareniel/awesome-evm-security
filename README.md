@@ -61,6 +61,8 @@ A curated list of resources about web3 security.
 - [Security Pattern for Ethereum and Solidity](https://docs.google.com/spreadsheets/d/1PF4QZudW6Z7EV4hqQfwPo3A43AVqPrsuzzzey5yRYcs/edit#gid=0) - Google Sheets Checklists
 - [CERtified](https://cer.live/) - Top 100 exchanges by Cybersecurity rating
 - [Smart Contract Security Registry](https://github.com/ethereum-lists/contracts) - An effort to identify deployed contracts instances given their chain and address, by listing the project they belong to.
+- [Gnosis Safe](https://docs.gnosis-safe.io) - Multi-sig. Require multiple team members to confirm every transaction in order to execute it, which helps prevent unauthorized access to company crypto
+- [Forta](https://docs.forta.network/) - Community-based runtime security network for smart contracts
 
 # Governance
 - [SAFT Agreements](https://saftproject.com/) - A commercial instrument used to convey rights in tokens prior to the development of the tokens’ functionality
@@ -70,8 +72,6 @@ A curated list of resources about web3 security.
 - [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals
 - [TypeChain](https://github.com/dethcrypto/TypeChain) - TypeScript bindings for Ethereum smart contracts
 - [Firefly](https://fireflyblockchain.com/) - QA for smart contracts.
-- [Forta](https://docs.forta.network/) - Community-based runtime security network for smart contracts
-- [Gnosis Safe](https://docs.gnosis-safe.io) - Multi-sig. Require multiple team members to confirm every transaction in order to execute it, which helps prevent unauthorized access to company crypto
 - [Ape Safe](https://safe.ape.tax/) - Gnosis Safe tx builder. Iteratively build complex multi-step Gnosis Safe transactions and safely preview their side effects in a  locally forked mainnet environment
 
 # Services
