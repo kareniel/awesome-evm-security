@@ -71,6 +71,8 @@ A curated list of resources about web3 security.
 - [TypeChain](https://github.com/dethcrypto/TypeChain) - TypeScript bindings for Ethereum smart contracts
 - [Firefly](https://fireflyblockchain.com/) - QA for smart contracts.
 - [Forta](https://docs.forta.network/) - Community-based runtime security network for smart contracts
+- [Gnosis Safe](https://docs.gnosis-safe.io) - Multi-sig. Require multiple team members to confirm every transaction in order to execute it, which helps prevent unauthorized access to company crypto
+- [Ape Safe](https://safe.ape.tax/) - Gnosis Safe tx builder. Iteratively build complex multi-step Gnosis Safe transactions and safely preview their side effects in a  locally forked mainnet environment
 
 # Services
 - [State of DeFi Audits](https://medium.com/conflux-network/the-overlooked-element-of-defi-adoption-e3b29829e3da)
