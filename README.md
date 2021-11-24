@@ -21,9 +21,10 @@ Mostly focused on Ethereum for now, but more coming soon!
 ---
 
 # Governance
+- [A beginner’s guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o) - Gives a high level overview of what DAOs are, why they are interesting, and showcase some of their potential use cases
+- [Deep DAO](https://deepdao.io/#/deepdao/dashboard) - Lists, ranks and analyzes top DAOs across multiple metrics
 - [SAFT Agreements](https://saftproject.com/) - A commercial instrument used to convey rights in tokens prior to the development of the tokens’ functionality
 - [Voting Options in DAOs](https://medium.com/daostack/voting-options-in-daos-b86e5c69a3e3) - Voting Options in DAOs
-- [Deep DAO](https://deepdao.io/#/deepdao/dashboard) - Lists, ranks and analyzes top DAOs across multiple metrics
 - [The Wyoming DAO bill](https://twitter.com/awrigh01/status/1369328856260354051) - A thread about Wyoming DAOs 
 
 # Standards
