@@ -6,16 +6,22 @@ A curated list of resources about web3 security.
 
 # Table of content
 
+- [Governance](#governance)
 - [Standards](#standards)
-- [Guides](#guides)
 - [Assets](#assets)
 - [Threats](#threats)
 - [Vulnerabilities](#vulnerabilities)
 - [Controls](#controls)
-- [Governance](#governance)
+- [Guides](#guides)
 - [Tooling](#tooling)
-- [Services](#services)
+- [Ecosystem](#ecosystem)
 - [Misc](#misc)
+
+---
+
+# Governance
+- [SAFT Agreements](https://saftproject.com/) - A commercial instrument used to convey rights in tokens prior to the development of the tokens’ functionality
+- [Voting Options in DAOs](https://medium.com/daostack/voting-options-in-daos-b86e5c69a3e3) - Voting Options in DAOs
 
 # Standards
 - [DeFi Safety](https://www.defisafety.com/) - Best practices security score reviews
@@ -24,10 +30,6 @@ A curated list of resources about web3 security.
 - [Smart Contract Security Verification Standard](https://securing.github.io/SCSVS/)
 - [Secureth guidelines](https://guidelines.secureth.org/) - Aid you in formulating your own software engineering process by giving a complete picture of all the different concerns and expectations in your software projects
 - [CryptoCurrency Security Standard (CCSS)](https://cryptoconsortium.github.io/CCSS/) - A set of requirements for all information systems that make use of cryptocurrencies, including exchanges, web applications, and cryptocurrency storage solutions
-
-# Guides
-- [CryptoSec.info](https://cryptosec.info/) - Information to help beginners learn how to protect their funds against hackers and scammers
-- [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/) - Frequently asked questions that are related to auditing and auditors can get their first job
 
 # Assets
 - [Security Considerations in the Solidity documentation](https://docs.soliditylang.org/en/v0.8.6/security-considerations.html)
@@ -64,8 +66,9 @@ A curated list of resources about web3 security.
 - [Gnosis Safe](https://docs.gnosis-safe.io) - Multi-sig. Require multiple team members to confirm every transaction in order to execute it, which helps prevent unauthorized access to company crypto
 - [Forta](https://docs.forta.network/) - Community-based runtime security network for smart contracts
 
-# Governance
-- [SAFT Agreements](https://saftproject.com/) - A commercial instrument used to convey rights in tokens prior to the development of the tokens’ functionality
+# Guides
+- [CryptoSec.info](https://cryptosec.info/) - Information to help beginners learn how to protect their funds against hackers and scammers
+- [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/) - Frequently asked questions that are related to auditing and auditors can get their first job
 
 # Tooling
 - [Dapp tools](https://dapp.tools/) - Unixy command line tools and smart contract libraries for Ethereum smart contract development
@@ -74,7 +77,7 @@ A curated list of resources about web3 security.
 - [Firefly](https://fireflyblockchain.com/) - QA for smart contracts.
 - [Ape Safe](https://safe.ape.tax/) - Gnosis Safe tx builder. Iteratively build complex multi-step Gnosis Safe transactions and safely preview their side effects in a  locally forked mainnet environment
 
-# Services
+# Ecosystem
 - [State of DeFi Audits](https://medium.com/conflux-network/the-overlooked-element-of-defi-adoption-e3b29829e3da)
 - [List of DeFi auditors](https://www.defisafety.com/auditors)
 - [Secureum](https://www.secureum.xyz/) - Smart contract security auditing bootcamp
