@@ -23,6 +23,7 @@ Mostly focused on Ethereum for now, but more coming soon!
 # Governance
 - [SAFT Agreements](https://saftproject.com/) - A commercial instrument used to convey rights in tokens prior to the development of the tokens’ functionality
 - [Voting Options in DAOs](https://medium.com/daostack/voting-options-in-daos-b86e5c69a3e3) - Voting Options in DAOs
+- [Deep DAO](https://deepdao.io/#/deepdao/dashboard) - Lists, ranks and analyzes top DAOs across multiple metrics
 
 # Standards
 - [DeFi Safety](https://www.defisafety.com/) - Best practices security score reviews
