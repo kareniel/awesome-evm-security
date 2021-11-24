@@ -73,6 +73,8 @@ Mostly focused on Ethereum for now, but more coming soon!
 - [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/) - Frequently asked questions that are related to auditing and auditors can get their first job
 
 # Tooling
+- [Etherscan](https://etherscan.io/) - The Ethereum Blockchain Explorer
+- [SolScan](https://solscan.io/) - The Solana Blockchain Explorer
 - [Dapp tools](https://dapp.tools/) - Unixy command line tools and smart contract libraries for Ethereum smart contract development
 - [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals
 - [TypeChain](https://github.com/dethcrypto/TypeChain) - TypeScript bindings for Ethereum smart contracts
