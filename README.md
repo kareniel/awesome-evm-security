@@ -8,6 +8,7 @@ Mostly focused on Ethereum for now, but more coming soon!
 # Table of content
 
 - [Governance](#governance)
+- [Architecture](#architecture)
 - [Standards](#standards)
 - [Assets](#assets)
 - [Threats](#threats)
