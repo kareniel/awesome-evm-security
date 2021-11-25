@@ -27,7 +27,6 @@ Mostly focused on Ethereum for now, but more coming soon!
 - [Voting Options in DAOs](https://medium.com/daostack/voting-options-in-daos-b86e5c69a3e3) - Voting Options in DAOs
 - [The Wyoming DAO bill](https://twitter.com/awrigh01/status/1369328856260354051) - A thread about Wyoming DAOs 
 - [It Takes a Cryptonetwork](https://medium.com/primedao/it-takes-a-cryptonetwork-2ae9ab541c17) - Prime’s Strategy for DAO to DAO Relations
-- [WTF Is QF](https://wtfisqf.com/?grant=&grant=&grant=&grant=&match=1000) - A simple explanation of quadratic funding
 
 # Architecture
 - [Shelling Out: The Origins of Money](https://nakamotoinstitute.org/shelling-out/) - Illustrates the value of collectibles in reducing social transaction costs
@@ -35,6 +34,7 @@ Mostly focused on Ethereum for now, but more coming soon!
 "cryptoeconomics" is context dependent and proposes complementary micro, meso and macro definitions of the term.
 - [Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca) - How do we design tokenized ecosystems, their incentives and how do we analyze or verify them?
 - [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976) - Introduces the basic concepts of mechanism design, and gives a taste for their usefulness in the cryptocurrency world
+- [WTF Is QF](https://wtfisqf.com/?grant=&grant=&grant=&grant=&match=1000) - A simple explanation of quadratic funding
 - [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves) - What bonding curves are and their potential applications.
 
 # Standards
