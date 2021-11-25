@@ -29,6 +29,8 @@ Mostly focused on Ethereum for now, but more coming soon!
 
 # Architecture
 
+- [Foundations of Cryptoeconomic Systems](https://epub.wu.ac.at/7309/8/Foundations%20of%20Cryptoeconomic%20Systems.pdf) - This paper explores why the term
+"cryptoeconomics" is context dependent and proposes complementary micro, meso and macro definitions of the term.
 - [Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca) - How do we design tokenized ecosystems, how do we design incentives for them and how do we analyze and verify them?
 
 # Standards
