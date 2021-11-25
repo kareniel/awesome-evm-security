@@ -80,6 +80,7 @@ Mostly focused on Ethereum for now, but more coming soon!
 # Guides
 - [CryptoSec.info](https://cryptosec.info/) - Information to help beginners learn how to protect their funds against hackers and scammers
 - [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/) - Frequently asked questions that are related to auditing and auditors can get their first job
+- [Genesis 0x00: A Series on Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/13/genesis.html) - Weekly articles on Blockchain Security, covering secure development, common vulnerabilities in smart contracts, auditing Solidity, and static analysis
 
 # Tooling
 - [Etherscan](https://etherscan.io/) - The Ethereum Blockchain Explorer
@@ -94,7 +95,6 @@ Mostly focused on Ethereum for now, but more coming soon!
 
 - [People to follow on Twitter](https://twitter.com/i/lists/1453086258436128770) - Twitter list to an overview of the web3 ecosystem and security people
 - [Videos to watch on Youtube](https://www.youtube.com/playlist?list=PLox242_JhiuEe64LzW1M8XpiQ2-N5bZsX) - Youtube playlist of web3 security videos
-- [Genesis 0x00: A Series on Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/13/genesis.html) - Weekly articles on Blockchain Security, covering secure development, common vulnerabilities in smart contracts, auditing Solidity, and static analysis
 
 ---
 
