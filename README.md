@@ -32,7 +32,7 @@ Mostly focused on Ethereum for now, but more coming soon!
 - [Shelling Out: The Origins of Money](https://nakamotoinstitute.org/shelling-out/) - Illustrates the value of collectibles in reducing social transaction costs
 - [Foundations of Cryptoeconomic Systems](https://epub.wu.ac.at/7309/8/Foundations%20of%20Cryptoeconomic%20Systems.pdf) - This paper explores why the term
 "cryptoeconomics" is context dependent and proposes complementary micro, meso and macro definitions of the term.
-- [Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca) - How do we design tokenized ecosystems, how do we design incentives for them and how do we analyze and verify them?
+- [Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca) - How do we design tokenized ecosystems, their incentives and how do we analyze or verify them?
 - [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976) - Introduces the basic concepts of mechanism design, and gives a taste for their usefulness in the cryptocurrency world
 
 # Standards
