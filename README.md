@@ -17,7 +17,6 @@ Mostly focused on Ethereum for now, but more coming soon!
 - [Guides](#guides)
 - [Tooling](#tooling)
 - [Ecosystem](#ecosystem)
-- [Misc](#misc)
 
 ---
 
@@ -75,6 +74,8 @@ Mostly focused on Ethereum for now, but more coming soon!
 - [Smart Contract Security Registry](https://github.com/ethereum-lists/contracts) - An effort to identify deployed contracts instances given their chain and address, by listing the project they belong to.
 - [Gnosis Safe](https://docs.gnosis-safe.io) - Multi-sig. Require multiple team members to confirm every transaction in order to execute it, which helps prevent unauthorized access to company crypto
 - [Forta](https://docs.forta.network/) - Community-based runtime security network for smart contracts
+- [List of DeFi auditors](https://www.defisafety.com/auditors)
+- [State of DeFi Audits](https://medium.com/conflux-network/the-overlooked-element-of-defi-adoption-e3b29829e3da)
 
 # Guides
 - [CryptoSec.info](https://cryptosec.info/) - Information to help beginners learn how to protect their funds against hackers and scammers
@@ -90,11 +91,6 @@ Mostly focused on Ethereum for now, but more coming soon!
 - [Ape Safe](https://safe.ape.tax/) - Gnosis Safe tx builder. Iteratively build complex multi-step Gnosis Safe transactions and safely preview their side effects in a  locally forked mainnet environment
 
 # Ecosystem
-- [State of DeFi Audits](https://medium.com/conflux-network/the-overlooked-element-of-defi-adoption-e3b29829e3da)
-- [List of DeFi auditors](https://www.defisafety.com/auditors)
-- [Secureum](https://www.secureum.xyz/) - Smart contract security auditing bootcamp
-
-# Misc
 
 - [People to follow on Twitter](https://twitter.com/i/lists/1453086258436128770) - Twitter list to an overview of the web3 ecosystem and security people
 - [Videos to watch on Youtube](https://www.youtube.com/playlist?list=PLox242_JhiuEe64LzW1M8XpiQ2-N5bZsX) - Youtube playlist of web3 security videos
