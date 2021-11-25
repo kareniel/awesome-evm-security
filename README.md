@@ -34,6 +34,7 @@ Mostly focused on Ethereum for now, but more coming soon!
 "cryptoeconomics" is context dependent and proposes complementary micro, meso and macro definitions of the term.
 - [Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca) - How do we design tokenized ecosystems, their incentives and how do we analyze or verify them?
 - [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976) - Introduces the basic concepts of mechanism design, and gives a taste for their usefulness in the cryptocurrency world
+- [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves) - What bonding curves are and their potential applications.
 
 # Standards
 - [DeFi Safety](https://www.defisafety.com/) - Best practices security score reviews
