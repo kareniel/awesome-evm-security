@@ -27,6 +27,10 @@ Mostly focused on Ethereum for now, but more coming soon!
 - [Voting Options in DAOs](https://medium.com/daostack/voting-options-in-daos-b86e5c69a3e3) - Voting Options in DAOs
 - [The Wyoming DAO bill](https://twitter.com/awrigh01/status/1369328856260354051) - A thread about Wyoming DAOs 
 
+# Architecture
+
+- [Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca) - How do we design tokenized ecosystems, how do we design incentives for them and how do we analyze and verify them?
+
 # Standards
 - [DeFi Safety](https://www.defisafety.com/) - Best practices security score reviews
 - [DASP Top 10 of 2018](https://dasp.co/) - Decentralized Application Security Project Top 10 vulnerabilities
