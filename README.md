@@ -26,7 +26,8 @@ Mostly focused on Ethereum for now, but more coming soon!
 - [SAFT Agreements](https://saftproject.com/) - A commercial instrument used to convey rights in tokens prior to the development of the tokens’ functionality
 - [Voting Options in DAOs](https://medium.com/daostack/voting-options-in-daos-b86e5c69a3e3) - Voting Options in DAOs
 - [The Wyoming DAO bill](https://twitter.com/awrigh01/status/1369328856260354051) - A thread about Wyoming DAOs 
-- [It Takes a Cryptonetwork](https://medium.com/primedao/it-takes-a-cryptonetwork-2ae9ab541c17) - Prime’s Strategy for DAO to DAO Relations 
+- [It Takes a Cryptonetwork](https://medium.com/primedao/it-takes-a-cryptonetwork-2ae9ab541c17) - Prime’s Strategy for DAO to DAO Relations
+- [WTF Is QF](https://wtfisqf.com/?grant=&grant=&grant=&grant=&match=1000) - A simple explanation of quadratic funding
 
 # Architecture
 - [Shelling Out: The Origins of Money](https://nakamotoinstitute.org/shelling-out/) - Illustrates the value of collectibles in reducing social transaction costs
