@@ -18,7 +18,6 @@ Mostly focused on Ethereum for now, but more coming soon!
 - [Tooling](#tooling)
 - [Ecosystem](#ecosystem)
 
----
 
 # Governance
 - [A beginner’s guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o) - Gives a high level overview of what DAOs are, why they are interesting and some of their use cases
@@ -102,7 +101,6 @@ Mostly focused on Ethereum for now, but more coming soon!
 - [People to follow on Twitter](https://twitter.com/i/lists/1453086258436128770) - Twitter list to an overview of the web3 ecosystem and security people
 - [Videos to watch on Youtube](https://www.youtube.com/playlist?list=PLox242_JhiuEe64LzW1M8XpiQ2-N5bZsX) - Youtube playlist of web3 security videos
 
----
 
 # See Also
 
