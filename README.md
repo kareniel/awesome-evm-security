@@ -43,6 +43,7 @@ Mostly focused on Ethereum for now, but more coming soon!
 - [Smart Contract Security Verification Standard](https://securing.github.io/SCSVS/)
 - [Secureth guidelines](https://guidelines.secureth.org/) - Aid you in formulating your own software engineering process by giving a complete picture of all the different concerns and expectations in your software projects
 - [CryptoCurrency Security Standard (CCSS)](https://cryptoconsortium.github.io/CCSS/) - A set of requirements for all information systems that make use of cryptocurrencies, including exchanges, web applications, and cryptocurrency storage solutions
+- [The Solcurity Standard](https://github.com/Rari-Capital/solcurity) - Opinionated security and code quality standard for Solidity smart contracts
 
 # Assets
 - [Security Considerations in the Solidity documentation](https://docs.soliditylang.org/en/v0.8.6/security-considerations.html)
