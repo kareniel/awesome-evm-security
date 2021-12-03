@@ -91,6 +91,7 @@ Mostly focused on Ethereum for now, but more coming soon!
 # Tooling
 - [Etherscan](https://etherscan.io/) - The Ethereum Blockchain Explorer
 - [SolScan](https://solscan.io/) - The Solana Blockchain Explorer
+- [Geth](https://geth.ethereum.org/docs/interface/command-line-options) - Go Ethereum CLI
 - [Dapp tools](https://dapp.tools/) - Unixy command line tools and smart contract libraries for Ethereum smart contract development
 - [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals
 - [TypeChain](https://github.com/dethcrypto/TypeChain) - TypeScript bindings for Ethereum smart contracts
