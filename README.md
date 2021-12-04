@@ -72,6 +72,7 @@ Mostly focused on Ethereum for now, but more coming soon!
 - [SWC Registry](https://swcregistry.io/) - Smart Contract Weakness Classification and Test Cases
 - [246 Findings](https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/) - 246 Findings From Trail of Bits Smart Contract Audits
 - [A Survey of Security Vulnerabilities in Ethereum Smart Contracts](https://arxiv.org/pdf/2105.06974.pdf) Explains eight vulnerabilities that are specific to the application level of blockchain technology by analyzing the past exploitation case scenarios of these security vulnerabilities
+- [List of Security Vulnerabilities](https://github.com/runtimeverification/verified-smart-contracts/wiki/List-of-Security-Vulnerabilities) - A comprehensive list of common smart contract security vulnerabilities, compiled from various sources
 
 # Controls
 - [Solidity Patterns](https://fravoll.github.io/solidity-patterns/) - A compilation of patterns and best practices for the smart contract programming language Solidity
