@@ -112,3 +112,4 @@ Other Awesome Lists:
 - [Awesome BlockSec CTF](https://github.com/0xjeffsec/awesome-blocksec-ctf) - Blockchain security Capture the Flag (CTF) competitions
 - [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 - [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) - Cryptoeconomic research and learning materials 
+- [Awesome Zero-Knowledge Proofs (ZKP)](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP). 
