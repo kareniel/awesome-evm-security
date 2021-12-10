@@ -26,6 +26,7 @@ Mostly focused on Ethereum for now, but more coming soon!
 - [Voting Options in DAOs](https://medium.com/daostack/voting-options-in-daos-b86e5c69a3e3) - Voting Options in DAOs
 - [The Wyoming DAO bill](https://twitter.com/awrigh01/status/1369328856260354051) - A thread about Wyoming DAOs 
 - [It Takes a Cryptonetwork](https://medium.com/primedao/it-takes-a-cryptonetwork-2ae9ab541c17) - Prime’s Strategy for DAO to DAO Relations
+- [DAOs, Democracy and Governance](https://merkle.com/papers/DAOdemocracyDraft.pdf) - A paper by Ralph Merkle about DAOs
 
 # Architecture
 - [Shelling Out: The Origins of Money](https://nakamotoinstitute.org/shelling-out/) - Illustrates the value of collectibles in reducing social transaction costs
