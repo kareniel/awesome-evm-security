@@ -67,7 +67,9 @@ Mostly focused on Ethereum for now, but more coming soon!
 - [Mudit Gupta's Twitter threads](https://mudit.blog/twitter-threads/) - Early analysis and educational content on Twitter
 - [Flash Boys 2.0 Paper](https://ieeexplore.ieee.org/document/9152675) - Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability
 - [MEV-explore](https://explore.flashbots.net/) - Help the community understand and quantify the significance of "Dark Forest activities" and their impact on the Ethereum network
-- [Flashloan monitor](https://monitor.blocksecteam.com/) - Dashboard that helps you monitor flashloan transactions 
+- [Flashloan monitor](https://monitor.blocksecteam.com/) - Dashboard that helps you monitor flashloan transactions
+- [Known Attacks](https://consensys.github.io/smart-contract-best-practices/known_attacks/) - A list of known attacks which you should be aware of, from Consensys
+- [Solidity Security](https://blog.sigmaprime.io/solidity-security.html) - Comprehensive list of known attack vectors and common anti-patterns
 
 # Vulnerabilities
 - [SWC Registry](https://swcregistry.io/) - Smart Contract Weakness Classification and Test Cases
@@ -78,6 +80,7 @@ Mostly focused on Ethereum for now, but more coming soon!
 # Controls
 - [Solidity Patterns](https://fravoll.github.io/solidity-patterns/) - A compilation of patterns and best practices for the smart contract programming language Solidity
 - [Security Pattern for Ethereum and Solidity](https://docs.google.com/spreadsheets/d/1PF4QZudW6Z7EV4hqQfwPo3A43AVqPrsuzzzey5yRYcs/edit#gid=0) - Google Sheets Checklists
+- [Solidity Best Practices for Smart Contract Security](https://consensys.net/blog/developers/solidity-best-practices-for-smart-contract-security/) - Pro tips from Consensys to ensure your Ethereum smart contracts are fortified
 - [CERtified](https://cer.live/) - Top 100 exchanges by Cybersecurity rating
 - [Smart Contract Security Registry](https://github.com/ethereum-lists/contracts) - An effort to identify deployed contracts instances given their chain and address, by listing the project they belong to.
 - [Gnosis Safe](https://docs.gnosis-safe.io) - Multi-sig. Require multiple team members to confirm every transaction in order to execute it, which helps prevent unauthorized access to company crypto
