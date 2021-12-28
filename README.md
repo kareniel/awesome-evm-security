@@ -101,7 +101,7 @@ Mostly focused on Ethereum for now, but more coming soon!
 - [Dapp tools](https://dapp.tools/) - Unixy command line tools and smart contract libraries for Ethereum smart contract development
 - [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals
 - [TypeChain](https://github.com/dethcrypto/TypeChain) - TypeScript bindings for Ethereum smart contracts
-- [Firefly](https://fireflyblockchain.com/) - QA for smart contracts.
+- [Firefly](https://fireflyblockchain.com/) - QA for smart contracts
 - [Ape Safe](https://safe.ape.tax/) - Gnosis Safe tx builder. Iteratively build complex multi-step Gnosis Safe transactions and safely preview their side effects in a  locally forked mainnet environment
 
 # Ecosystem
@@ -117,4 +117,5 @@ Other Awesome Lists:
 - [Awesome BlockSec CTF](https://github.com/0xjeffsec/awesome-blocksec-ctf) - Blockchain security Capture the Flag (CTF) competitions
 - [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 - [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) - Cryptoeconomic research and learning materials 
-- [Awesome Zero-Knowledge Proofs (ZKP)](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP). 
+- [Awesome Zero-Knowledge Proofs (ZKP)](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP)
+- [Officer CIA's Ultimate DeFi Research Base](https://github.com/OffcierCia/ultimate-defi-research-base) - Curated DeFI & Blockchain research papers and tools
