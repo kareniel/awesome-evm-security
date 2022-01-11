@@ -88,6 +88,7 @@ Mostly focused on Ethereum for now, but more coming soon!
 - [Forta](https://docs.forta.network/) - Community-based runtime security network for smart contracts
 - [List of DeFi auditors](https://www.defisafety.com/auditors)
 - [State of DeFi Audits](https://medium.com/conflux-network/the-overlooked-element-of-defi-adoption-e3b29829e3da)
+- [Building Secure Contracts](https://github.com/crytic/building-secure-contracts/) - Trail of Bits' guidelines and best practices on how to write secure smart contracts
 
 # Guides
 - [CryptoSec.info](https://cryptosec.info/) - Information to help beginners learn how to protect their funds against hackers and scammers
