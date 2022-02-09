@@ -104,7 +104,7 @@ Mostly focused on Ethereum for now, but more coming soon!
 - [TypeChain](https://github.com/dethcrypto/TypeChain) - TypeScript bindings for Ethereum smart contracts
 - [Firefly](https://fireflyblockchain.com/) - QA for smart contracts
 - [Ape Safe](https://safe.ape.tax/) - Gnosis Safe tx builder. Iteratively build complex multi-step Gnosis Safe transactions and safely preview their side effects in a  locally forked mainnet environment
-- [](https://github.com/MrToph/scrape-eth) - Recursively scrapes a website for all ETH addresses and pulls contract name information from etherscan/bscscan
+- [scrape-eth](https://github.com/MrToph/scrape-eth) - Recursively scrapes a website for all ETH addresses and pulls contract name information from etherscan/bscscan
 
 # Ecosystem
 
