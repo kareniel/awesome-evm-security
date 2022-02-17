@@ -56,6 +56,7 @@ Mostly focused on Ethereum for now, but more coming soon!
 - [Scaling EVM (Ethereum Virtual Machine)](https://capitalgram.com/posts/scaling-evm/) - How fast and far can the EVM based blockchain architecture still take us
 - [L2Beat](https://l2beat.com/) - Transparent and verifiable insights into emerging layer two (L2) technologies
 - [The Non-Fungible Token Bible](https://opensea.io/blog/guides/non-fungible-tokens) - Everything you need to know about NFTs 
+- [KEVM](https://github.com/kframework/evm-semantics) - A formal model of the EVM in the K framework
 
 # Threats
 - [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - A list of all massive security breaches or thefts involving blockchains.
