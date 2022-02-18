@@ -122,3 +122,4 @@ Other Awesome Lists:
 - [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) - Cryptoeconomic research and learning materials 
 - [Awesome Zero-Knowledge Proofs (ZKP)](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP)
 - [Officer CIA's Ultimate DeFi Research Base](https://github.com/OffcierCia/ultimate-defi-research-base) - Curated DeFI & Blockchain research papers and tools
+- [Awesome MEV resources](https://github.com/0xalpharush/awesome-MEV-resources)
