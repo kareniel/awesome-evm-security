@@ -80,32 +80,21 @@ Mostly focused on Ethereum for now, but more coming soon!
 - [List of Known Bugs](https://docs.soliditylang.org/en/v0.8.1/bugs.html) - A JSON-formatted list of some of the known security-relevant bugs in the Solidity compiler
 
 # Controls
+- [Gnosis Safe](https://docs.gnosis-safe.io) - Multi-sig. Require multiple team members to confirm every transaction in order to execute it, which helps prevent unauthorized access to company crypto
+- [List of DeFi auditors](https://www.defisafety.com/auditors)
+- [State of DeFi Audits](https://medium.com/conflux-network/the-overlooked-element-of-defi-adoption-e3b29829e3da)
+- [Building Secure Contracts](https://github.com/crytic/building-secure-contracts/) - Trail of Bits' guidelines and best practices on how to write secure smart contracts
 - [Solidity Patterns](https://fravoll.github.io/solidity-patterns/) - A compilation of patterns and best practices for the smart contract programming language Solidity
 - [Security Pattern for Ethereum and Solidity](https://docs.google.com/spreadsheets/d/1PF4QZudW6Z7EV4hqQfwPo3A43AVqPrsuzzzey5yRYcs/edit#gid=0) - Google Sheets Checklists
 - [Solidity Best Practices for Smart Contract Security](https://consensys.net/blog/developers/solidity-best-practices-for-smart-contract-security/) - Pro tips from Consensys to ensure your Ethereum smart contracts are fortified
 - [CERtified](https://cer.live/) - Top 100 exchanges by Cybersecurity rating
 - [Smart Contract Security Registry](https://github.com/ethereum-lists/contracts) - An effort to identify deployed contracts instances given their chain and address, by listing the project they belong to.
-- [Gnosis Safe](https://docs.gnosis-safe.io) - Multi-sig. Require multiple team members to confirm every transaction in order to execute it, which helps prevent unauthorized access to company crypto
 - [Forta](https://docs.forta.network/) - Community-based runtime security network for smart contracts
-- [List of DeFi auditors](https://www.defisafety.com/auditors)
-- [State of DeFi Audits](https://medium.com/conflux-network/the-overlooked-element-of-defi-adoption-e3b29829e3da)
-- [Building Secure Contracts](https://github.com/crytic/building-secure-contracts/) - Trail of Bits' guidelines and best practices on how to write secure smart contracts
 
 # Guides
 - [CryptoSec.info](https://cryptosec.info/) - Information to help beginners learn how to protect their funds against hackers and scammers
 - [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/) - Frequently asked questions that are related to auditing and auditors can get their first job
 - [Genesis 0x00: A Series on Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/13/genesis.html) - Weekly articles on Blockchain Security, covering secure development, common vulnerabilities in smart contracts, auditing Solidity, and static analysis
-
-# Tooling
-- [Etherscan](https://etherscan.io/) - The Ethereum Blockchain Explorer
-- [SolScan](https://solscan.io/) - The Solana Blockchain Explorer
-- [Geth](https://geth.ethereum.org/docs/interface/command-line-options) - Go Ethereum CLI
-- [Dapp tools](https://dapp.tools/) - Unixy command line tools and smart contract libraries for Ethereum smart contract development
-- [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals
-- [TypeChain](https://github.com/dethcrypto/TypeChain) - TypeScript bindings for Ethereum smart contracts
-- [Firefly](https://fireflyblockchain.com/) - QA for smart contracts
-- [Ape Safe](https://safe.ape.tax/) - Gnosis Safe tx builder. Iteratively build complex multi-step Gnosis Safe transactions and safely preview their side effects in a  locally forked mainnet environment
-- [scrape-eth](https://github.com/MrToph/scrape-eth) - Recursively scrapes a website for all ETH addresses and pulls contract name information from etherscan/bscscan
 
 # Ecosystem
 
