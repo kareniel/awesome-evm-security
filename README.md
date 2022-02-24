@@ -15,7 +15,6 @@ Mostly focused on Ethereum for now, but more coming soon!
 - [Vulnerabilities](#vulnerabilities)
 - [Controls](#controls)
 - [Guides](#guides)
-- [Tooling](#tooling)
 - [Ecosystem](#ecosystem)
 
 
