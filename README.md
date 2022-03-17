@@ -1,8 +1,8 @@
-# Awesome Web3 Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome EVM Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome Web3 Security](awesome-web3-security.png)](https://github.com/kareniel/awesome-web3-security#readme)
+[![Awesome EVM Security](awesome-web3-security.png)](https://github.com/kareniel/awesome-evm-security#readme)
 
-An overview of the Ethereum ecosystem from an infosec management perspective.
+An overview of the EVM ecosystem from an infosec management perspective.
 
 ## Contents
 
