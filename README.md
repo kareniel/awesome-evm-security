@@ -1,6 +1,6 @@
 # Awesome EVM Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome EVM Security](awesome-web3-security.png)](https://github.com/kareniel/awesome-evm-security#readme)
+[![Awesome EVM Security](awesome-evm-security.png)](https://github.com/kareniel/awesome-evm-security#readme)
 
 An overview of the EVM ecosystem from an infosec management perspective.
 
