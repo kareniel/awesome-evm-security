@@ -1,6 +1,6 @@
 # Awesome Web3 Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![Awesome Web3 Security](awesome-web3-security.svg)
+![Awesome Web3 Security](awesome-web3-security.png)
 
 An overview of the Ethereum ecosystem from an infosec management perspective.
 
