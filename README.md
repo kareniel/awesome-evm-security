@@ -2,14 +2,16 @@
 
 [![Awesome EVM Security](awesome-evm-security.png)](https://github.com/kareniel/awesome-evm-security#readme)
 
-An overview of the EVM ecosystem from an infosec management perspective.
+EVM stands for "Ethereum Virtual Machine". The EVM powers the Ethereum mainnet, but also Layer 2 protocols, sidechains, and EVM-compatible chains.
+
+This list is an overview of the EVM ecosystem from an information security management perspective.
 
 ## Contents
 
 - [Governance](#governance)
 - [Architecture](#architecture)
 - [Standards](#standards)
-- [Assets](#assets)
+- [System Assets](#system-assets)
 - [Threats](#threats)
 - [Vulnerabilities](#vulnerabilities)
 - [Controls](#controls)
@@ -44,7 +46,7 @@ An overview of the EVM ecosystem from an infosec management perspective.
 - [CryptoCurrency Security Standard (CCSS)](https://cryptoconsortium.github.io/CCSS/) - A set of requirements for all information systems that make use of cryptocurrencies, including exchanges, web applications, and cryptocurrency storage solutions.
 - [The Solcurity Standard](https://github.com/Rari-Capital/solcurity) - Opinionated security and code quality standard for Solidity smart contracts.
 
-## Assets
+## System Assets
 - [Security Considerations in the Solidity documentation](https://docs.soliditylang.org/en/v0.8.6/security-considerations.html) - Lists some pitfalls and general security recommendations.
 - [Ethereum 2.0 Specifications Security Audit Report](https://leastauthority.com/static/publications/LeastAuthority-Ethereum-2.0-Specifications-Audit-Report.pdf) - Security Audit Report of the Eth2.0 spec by Least Authority.
 - [Getting Deep Into EVM](https://hackernoon.com/getting-deep-into-evm-how-ethereum-works-backstage-ac7efa1f0015) - An Ultimate, In-depth Explanation of How EVM Works.
