@@ -8,6 +8,7 @@ This list is an overview of the EVM ecosystem from an information security manag
 
 ## Contents
 
+- [Overview](#overview)
 - [Governance](#governance)
 - [Architecture](#architecture)
 - [Standards](#standards)
@@ -15,9 +16,13 @@ This list is an overview of the EVM ecosystem from an information security manag
 - [Threats](#threats)
 - [Vulnerabilities](#vulnerabilities)
 - [Controls](#controls)
-- [Guides](#guides)
 - [Ecosystem](#ecosystem)
 
+
+## Overview
+- [CryptoSec.info](https://cryptosec.info/) - Information to help beginners learn how to protect their funds against hackers and scammers.
+- [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/) - Frequently asked questions that are related to auditing and auditors can get their first job.
+- [Genesis 0x00: A Series on Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/13/genesis.html) - Weekly articles on Blockchain Security, covering secure development, common vulnerabilities in smart contracts, auditing Solidity, and static analysis.
 
 ## Governance
 - [A beginner's guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o) - Gives a high level overview of what DAOs are, why they are interesting and some of their use cases.
@@ -91,13 +96,7 @@ This list is an overview of the EVM ecosystem from an information security manag
 - [Smart Contract Security Registry](https://github.com/ethereum-lists/contracts) - An effort to identify deployed contracts instances given their chain and address, by listing the project they belong to.
 - [Forta](https://docs.forta.network/) - Community-based runtime security network for smart contracts.
 
-## Guides
-- [CryptoSec.info](https://cryptosec.info/) - Information to help beginners learn how to protect their funds against hackers and scammers.
-- [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/) - Frequently asked questions that are related to auditing and auditors can get their first job.
-- [Genesis 0x00: A Series on Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/13/genesis.html) - Weekly articles on Blockchain Security, covering secure development, common vulnerabilities in smart contracts, auditing Solidity, and static analysis.
-
 ## Ecosystem
-
 - [People to follow on Twitter](https://twitter.com/i/lists/1453086258436128770) - Twitter list to an overview of the web3 ecosystem and security people.
 - [Videos to watch on YouTube](https://www.youtube.com/playlist?list=PLox242_JhiuEe64LzW1M8XpiQ2-N5bZsX) - YouTube playlist of web3 security videos.
 
