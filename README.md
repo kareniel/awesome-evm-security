@@ -18,11 +18,10 @@ This list is an overview of the EVM ecosystem from an information security manag
 - [Controls](#controls)
 - [Ecosystem](#ecosystem)
 
-
 ## Overview
 - [CryptoSec.info](https://cryptosec.info/) - Information to help beginners learn how to protect their funds against hackers and scammers.
+- [Simplified Roadmap for Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html) - Covers all rudimentary topics that one needs to know in order to get into the field of Blockchain Security.
 - [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/) - Frequently asked questions that are related to auditing and auditors can get their first job.
-- [Genesis 0x00: A Series on Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/13/genesis.html) - Weekly articles on Blockchain Security, covering secure development, common vulnerabilities in smart contracts, auditing Solidity, and static analysis.
 
 ## Governance
 - [A beginner's guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o) - Gives a high level overview of what DAOs are, why they are interesting and some of their use cases.
