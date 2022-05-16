@@ -84,6 +84,7 @@ This list is an overview of the EVM ecosystem from an information security manag
 - [List of Known Bugs](https://docs.soliditylang.org/en/v0.8.1/bugs.html) - A JSON-formatted list of some of the known security-relevant bugs in the Solidity compiler.
 
 ## Controls
+- [Simple Security Toolkit](https://github.com/nascentxyz/simple-security-toolkit) - A collection of practical security-focused tips and resources for smart contract development.
 - [Gnosis Safe](https://docs.gnosis-safe.io) - Multi-sig. Require multiple team members to confirm every transaction in order to execute it, which helps prevent unauthorized access to company crypto.
 - [List of DeFi auditors](https://www.defisafety.com/auditors) - List of DeFi auditors maintained by DeFiSafety.
 - [State of DeFi Audits](https://medium.com/conflux-network/the-overlooked-element-of-defi-adoption-e3b29829e3da) - Article taking a look at the auditing space and its importance in onboarding users by properly securing new DeFi protocols.
