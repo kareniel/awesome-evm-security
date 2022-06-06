@@ -2,7 +2,7 @@
 
 [![Awesome EVM Security](awesome-evm-security.png)](https://github.com/kareniel/awesome-evm-security#readme)
 
-EVM stands for "Ethereum Virtual Machine". The EVM powers the Ethereum mainnet, but also Layer 2 protocols, sidechains, and EVM-compatible chains.
+[EVM](https://ethereum.org/en/developers/docs/evm/) stands for "Ethereum Virtual Machine". The EVM powers the Ethereum mainnet, but also Layer 2 protocols, sidechains, and EVM-compatible chains.
 
 This list is an overview of the EVM ecosystem from an information security management perspective.
 
