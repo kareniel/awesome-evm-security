@@ -85,6 +85,7 @@ This list is an overview of the EVM ecosystem from an information security manag
 
 ## Controls
 - [Simple Security Toolkit](https://github.com/nascentxyz/simple-security-toolkit) - Opinionated recommendations that the team at Nascent find to be appropriate,  particularly for teams developing and managing early versions of a protocol.
+- [evmchain-config](https://github.com/harunosakura030303-maker/evmchain-config) - Universal EVM chain config manager with built-in validation — warns about public RPCs on mainnet, invalid key formats, and missing explorer keys.
 - [Gnosis Safe](https://docs.gnosis-safe.io) - Multi-sig. Require multiple team members to confirm every transaction in order to execute it, which helps prevent unauthorized access to company crypto.
 - [List of DeFi auditors](https://www.defisafety.com/auditors) - List of DeFi auditors maintained by DeFiSafety.
 - [State of DeFi Audits](https://medium.com/conflux-network/the-overlooked-element-of-defi-adoption-e3b29829e3da) - Article taking a look at the auditing space and its importance in onboarding users by properly securing new DeFi protocols.
