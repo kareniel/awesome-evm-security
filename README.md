@@ -96,6 +96,7 @@ This list is an overview of the EVM ecosystem from an information security manag
 - [Smart Contract Security Registry](https://github.com/ethereum-lists/contracts) - An effort to identify deployed contracts instances given their chain and address, by listing the project they belong to.
 - [Forta](https://docs.forta.network/) - Community-based runtime security network for smart contracts.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring for AI agents running automated EVM security analysis. Verify AI auditor agent identity on Solana before trusting automated security findings. Provides cryptographic attestation receipts via x402 micropayments. MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ## Ecosystem
 - [People to follow on Twitter](https://twitter.com/i/lists/1453086258436128770) - Twitter list to an overview of the web3 ecosystem and security people.
 - [Videos to watch on YouTube](https://www.youtube.com/playlist?list=PLox242_JhiuEe64LzW1M8XpiQ2-N5bZsX) - YouTube playlist of web3 security videos.
