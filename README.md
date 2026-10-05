@@ -95,6 +95,7 @@ This list is an overview of the EVM ecosystem from an information security manag
 - [CERtified](https://cer.live/) - Top 100 exchanges by Cybersecurity rating.
 - [Smart Contract Security Registry](https://github.com/ethereum-lists/contracts) - An effort to identify deployed contracts instances given their chain and address, by listing the project they belong to.
 - [Forta](https://docs.forta.network/) - Community-based runtime security network for smart contracts.
+- [token-launch-scan](https://github.com/invisiblemonsters/token-launch-scan) - Free, no-API-key scanner for fresh token launches: mint/freeze authority, honeypot simulation, LP lock status, holder concentration, deployer history (EVM + Solana).
 
 ## Ecosystem
 - [People to follow on Twitter](https://twitter.com/i/lists/1453086258436128770) - Twitter list to an overview of the web3 ecosystem and security people.
